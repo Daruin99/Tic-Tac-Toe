@@ -1,7 +1,7 @@
 
 const fields = document.querySelectorAll(".field");
 const displayMessage = document.querySelector(".display");
-const Board = []
+const Board = [];
 const WINNING_COMBINATIONS = [
     [0, 1, 2],
     [3, 4, 5],
